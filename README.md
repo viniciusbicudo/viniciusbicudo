@@ -10,7 +10,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="stackoverflow" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aral-roca-gomez-3b536bb1/" target="_blank" style='margin-right:10px'>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-martins-7a597421a/" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
   
 </p>
