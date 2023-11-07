@@ -33,7 +33,7 @@ I'm a musician and I'm seeking knowledge in technology, I've always been involve
 
 #### 🧡 &nbsp;&nbsp;My passions
 
-* Sing Rap
-* Listen Trap Music
-* Play Guitar
-* Technology
+* Sing Rap 🎤
+* Listen Trap Music 🎧
+* Play Guitar 🎸
+* Technology 🖥️📱
